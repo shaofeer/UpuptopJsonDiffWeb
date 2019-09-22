@@ -1,0 +1,495 @@
+{
+  "agentId": "EA-132.252.143.28-31337",
+  "jvmGcBos": [
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734952571,
+      "gcType": "CMS",
+      "heapUsed": 312982648,
+      "heapMax": 2075918336,
+      "nonHeapUsed": 166042752,
+      "nonHeapMax": 1862270976,
+      "gcOldCount": 0,
+      "gcOldTime": 0,
+      "agentStatType": "JVM_GC"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734957571,
+      "gcType": "CMS",
+      "heapUsed": 313001816,
+      "heapMax": 2075918336,
+      "nonHeapUsed": 166042752,
+      "nonHeapMax": 1862270976,
+      "gcOldCount": 0,
+      "gcOldTime": 0,
+      "agentStatType": "JVM_GC"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734962571,
+      "gcType": "CMS",
+      "heapUsed": 313259072,
+      "heapMax": 2075918336,
+      "nonHeapUsed": 166042752,
+      "nonHeapMax": 1862270976,
+      "gcOldCount": 0,
+      "gcOldTime": 0,
+      "agentStatType": "JVM_GC"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734967571,
+      "gcType": "CMS",
+      "heapUsed": 313771872,
+      "heapMax": 2075918336,
+      "nonHeapUsed": 166042752,
+      "nonHeapMax": 1862270976,
+      "gcOldCount": 0,
+      "gcOldTime": 0,
+      "agentStatType": "JVM_GC"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734972571,
+      "gcType": "CMS",
+      "heapUsed": 313771872,
+      "heapMax": 2075918336,
+      "nonHeapUsed": 166042752,
+      "nonHeapMax": 1862270976,
+      "gcOldCount": 0,
+      "gcOldTime": 0,
+      "agentStatType": "JVM_GC"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734977571,
+      "gcType": "CMS",
+      "heapUsed": 313871104,
+      "heapMax": 2075918336,
+      "nonHeapUsed": 166042752,
+      "nonHeapMax": 1862270976,
+      "gcOldCount": 0,
+      "gcOldTime": 0,
+      "agentStatType": "JVM_GC"
+    }
+  ],
+  "jvmGcDetailedBos": [
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734952571,
+      "gcNewCount": 137,
+      "gcNewTime": 137,
+      "codeCacheUsed": 0.23604482014973957,
+      "newGenUsed": 0.3365665434917887,
+      "oldGenUsed": 0.07097294028726654,
+      "survivorSpaceUsed": 0.26038726694854625,
+      "permGenUsed": 0.0,
+      "metaspaceUsed": 0.17805741727352142,
+      "agentStatType": "JVM_GC_DETAILED"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734957571,
+      "gc^CNewCount": 137,
+      "gcNewTime": 137,
+      "codeCacheUsed": 0.23604482014973957,
+      "newGenUsed": 0.33660001573586634,
+      "oldGenUsed": 0.07097294028726654,
+      "survivorSpaceUsed": 0.26038726694854625,
+      "permGenUsed": 0.0,
+      "metaspaceUsed": 0.17805741727352142,
+      "agentStatType": "JVM_GC_DETAILED"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734962571,
+      "gcNewCount": 137,
+      "gcNewTime": 137,
+      "codeCacheUsed": 0.23604482014973957,
+      "newGenUsed": 0.3370492506911264,
+      "oldGenUsed": 0.07097294028726654,
+      "survivorSpaceUsed": 0.26038726694854625,
+      "permGenUsed": 0.0,
+      "metaspaceUsed": 0.17805741727352142,
+      "agentStatType": "JVM_GC_DETAILED"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734967571,
+      "gcNewCount": 137,
+      "gcNewTime": 137,
+      "codeCacheUsed": 0.23604482014973957,
+      "newGenUsed": 0.3379447310105645,
+      "oldGenUsed": 0.07097294028726654,
+      "survivorSpaceUsed": 0.26038726694854625,
+      "permGenUsed": 0.0,
+      "metaspaceUsed": 0.17805741727352142,
+      "agentStatType": "JVM_GC_DETAILED"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734972571,
+      "gcNewCount": 137,
+      "gcNewTime": 137,
+      "codeCacheUsed": 0.23604482014973957,
+      "newGenUsed": 0.3379447310105645,
+      "oldGenUsed": 0.07097294028726654,
+      "survivorSpaceUsed": 0.26038726694854625,
+      "permGenUsed": 0.0,
+      "metaspaceUsed": 0.17805741727352142,
+      "agentStatType": "JVM_GC_DETAILED"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734977571,
+      "gcNewCount": 137,
+      "gcNewTime": 137,
+      "codeCacheUsed": 0.23604482014973957,
+      "newGenUsed": 0.33811801553290943,
+      "oldGenUsed": 0.07097294028726654,
+      "survivorSpaceUsed": 0.26038726694854625,
+      "permGenUsed": 0.0,
+      "metaspaceUsed": 0.17805741727352142,
+      "agentStatType": "JVM_GC_DETAILED"
+    }
+  ],
+  "cpuLoadBos": [
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734952571,
+      "jvmCpuLoad": 2.0268558398783886E-4,
+      "systemCpuLoad": 0.08330799635147461,
+      "agentStatType": "CPU_LOAD"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734957571,
+      "jvmCpuLoad": 3.54699771978718E-4,
+      "systemCpuLoad": 0.06369394476817836,
+      "agentStatType": "CPU_LOAD"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734962571,
+      "jvmCpuLoad": 2.0254190085573954E-4,
+      "systemCpuLoad": 0.07109220720036458,
+      "agentStatType": "CPU_LOAD"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734967571,
+      "jvmCpuLoad": 2.0258293238794632E-4,
+      "systemCpuLoad": 0.061028108381868826,
+      "agentStatType": "CPU_LOAD"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734972571,
+      "jvmCpuLoad": 2.0253164556962027E-4,
+      "systemCpuLoad": 0.07477723774807614,
+      "agentStatType": "CPU_LOAD"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734977571,
+      "jvmCpuLoad": 2.0244964065188785E-4,
+      "systemCpuLoad": 0.06570155902004454,
+      "agentStatType": "CPU_LOAD"
+    }
+  ],
+  "transactionBos": [
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734952571,
+      "collectInterval": 5000,
+      "sampledNewCount": 0,
+      "sampledContinuationCount": 0,
+      "unsampledNewCount": 0,
+      "unsampledContinuationCount": 0,
+      "agentStatType": "TRANSACTION"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734957571,
+      "collectInterval": 5000,
+      "sampledNewCount": 2,
+      "sampledContinuationCount": 0,
+      "unsampledNewCount": 0,
+      "unsampledContinuationCount": 0,
+      "agentStatType": "TRANSACTION"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734962571,
+      "collectInterval": 5000,
+      "sampledNewCount": 0,
+      "sampledContinuationCount": 0,
+      "unsampledNewCount": 0,
+      "unsampledContinuationCount": 0,
+      "agentStatType": "TRANSACTION"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734967571,
+      "collectInterval": 5000,
+      "sampledNewCount": 2,
+      "sampledContinuationCount": 0,
+      "unsampledNewCount": 0,
+      "unsampledContinuationCount": 0,
+      "agentStatType": "TRANSACTION"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734972571,
+      "collectInterval": 5000,
+      "sampledNewCount": 2,
+      "sampledContinuationCount": 0,
+      "unsampledNewCount": 0,
+      "unsampledContinuationCount": 0,
+      "agentStatType": "TRANSACTION"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734977571,
+      "collectInterval": 5000,
+      "sampledNewCount": 0,
+      "sampledContinuationCount": 0,
+      "unsampledNewCount": 0,
+      "unsampledContinuationCount": 0,
+      "agentStatType": "TRANSACTION"
+    }
+  ],
+  "activeTraceBos": [
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734952571,
+      "version": 0,
+      "histogramSchemaType": 2,
+      "activeTraceCounts": {
+        "FAST": 0,
+        "SLOW": 0,
+        "VERY_SLOW": 0,
+        "NORMAL": 0
+      },
+      "agentStatType": "ACTIVE_TRACE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734957571,
+      "version": 0,
+      "histogramSchemaType": 2,
+      "activeTraceCounts": {
+        "FAST": 0,
+        "SLOW": 0,
+        "VERY_SLOW": 0,
+        "NORMAL": 0
+      },
+      "agentStatType": "ACTIVE_TRACE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734962571,
+      "version": 0,
+      "histogramSchemaType": 2,
+      "activeTraceCounts": {
+        "FAST": 0,
+        "SLOW": 0,
+        "VERY_SLOW": 0,
+        "NORMAL": 0
+      },
+      "agentStatType": "ACTIVE_TRACE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734967571,
+      "version": 0,
+      "histogramSchemaType": 2,
+      "activeTraceCounts": {
+        "FAST": 0,
+        "SLOW": 0,
+        "VERY_SLOW": 0,
+        "NORMAL": 0
+      },
+      "agentStatType": "ACTIVE_TRACE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734972571,
+      "version": 0,
+      "histogramSchemaType": 2,
+      "activeTraceCounts": {
+        "FAST": 0,
+        "SLOW": 0,
+        "VERY_SLOW": 0,
+        "NORMAL": 0
+      },
+      "agentStatType": "ACTIVE_TRACE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734977571,
+      "version": 0,
+      "histogramSchemaType": 2,
+      "activeTraceCounts": {
+        "FAST": 0,
+        "SLOW": 0,
+        "VERY_SLOW": 0,
+        "NORMAL": 0
+      },
+      "agentStatType": "ACTIVE_TRACE"
+    }
+  ],
+  "dataSourceListBos": [
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734952571,
+      "list": [
+        {
+          "agentId": "EA-132.252.143.28-31337",
+          "startTimestamp": 1541270774525,
+          "timestamp": 1541734952571,
+          "id": 1,
+          "serviceTypeCode": 6050,
+          "databaseName": "srdb1_sr",
+          "jdbcUrl": "jdbc:oracle:thin:@(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.28)(PORT = 1621))(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.29)(PORT = 1621))(LOAD_BALANCE=NO))(CONNECT_DATA =(SERVICE_NAME =SRDB1_SR)))",
+          "activeConnectionSize": 0,
+          "maxConnectionSize": 5,
+          "agentStatType": "DATASOURCE"
+        }
+      ],
+      "agentStatType": "DATASOURCE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734957571,
+      "list": [
+        {
+          "agentId": "EA-132.252.143.28-31337",
+          "startTimestamp": 1541270774525,
+          "timestamp": 1541734957571,
+          "id": 1,
+          "serviceTypeCode": 6050,
+          "databaseName": "srdb1_sr",
+          "jdbcUrl": "jdbc:oracle:thin:@(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.28)(PORT = 1621))(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.29)(PORT = 1621))(LOAD_BALANCE=NO))(CONNECT_DATA =(SERVICE_NAME =SRDB1_SR)))",
+          "activeConnectionSize": 0,
+          "maxConnectionSize": 5,
+          "agentStatType": "DATASOURCE"
+        }
+      ],
+      "agentStatType": "DATASOURCE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734962571,
+      "list": [
+        {
+          "agentId": "EA-132.252.143.28-31337",
+          "startTimestamp": 1541270774525,
+          "timestamp": 1541734962571,
+          "id": 1,
+          "serviceTypeCode": 6050,
+          "databaseName": "srdb1_sr",
+          "jdbcUrl": "jdbc:oracle:thin:@(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.28)(PORT = 1621))(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.29)(PORT = 1621))(LOAD_BALANCE=NO))(CONNECT_DATA =(SERVICE_NAME =SRDB1_SR)))",
+          "activeConnectionSize": 0,
+          "maxConnectionSize": 5,
+          "agentStatType": "DATASOURCE"
+        }
+      ],
+      "agentStatType": "DATASOURCE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734967571,
+      "list": [
+        {
+          "agentId": "EA-132.252.143.28-31337",
+          "startTimestamp": 1541270774525,
+          "timestamp": 1541734967571,
+          "id": 1,
+          "serviceTypeCode": 6050,
+          "databaseName": "srdb1_sr",
+          "jdbcUrl": "jdbc:oracle:thin:@(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.28)(PORT = 1621))(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.29)(PORT = 1621))(LOAD_BALANCE=NO))(CONNECT_DATA =(SERVICE_NAME =SRDB1_SR)))",
+          "activeConnectionSize": 0,
+          "maxConnectionSize": 5,
+          "agentStatType": "DATASOURCE"
+        }
+      ],
+      "agentStatType": "DATASOURCE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734972571,
+      "list": [
+        {
+          "agentId": "EA-132.252.143.28-31337",
+          "startTimestamp": 1541270774525,
+          "timestamp": 1541734972571,
+          "id": 1,
+          "serviceTypeCode": 6050,
+          "databaseName": "srdb1_sr",
+          "jdbcUrl": "jdbc:oracle:thin:@(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.28)(PORT = 1621))(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.29)(PORT = 1621))(LOAD_BALANCE=NO))(CONNECT_DATA =(SERVICE_NAME =SRDB1_SR)))",
+          "activeConnectionSize": 0,
+          "maxConnectionSize": 5,
+          "agentStatType": "DATASOURCE"
+        }
+      ],
+      "agentStatType": "DATASOURCE"
+    },
+    {
+      "agentId": "EA-132.252.143.28-31337",
+      "startTimestamp": 1541270774525,
+      "timestamp": 1541734977571,
+      "list": [
+        {
+          "agentId": "EA-132.252.143.28-31337",
+          "startTimestamp": 1541270774525,
+          "timestamp": 1541734977571,
+          "id": 1,
+          "serviceTypeCode": 6050,
+          "databaseName": "srdb1_sr",
+          "jdbcUrl": "jdbc:oracle:thin:@(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.28)(PORT = 1621))(ADDRESS = (PROTOCOL = TCP)(HOST = 132.252.129.29)(PORT = 1621))(LOAD_BALANCE=NO))(CONNECT_DATA =(SERVICE_NAME =SRDB1_SR)))",
+          "activeConnectionSize": 0,
+          "maxConnectionSize": 5,
+          "agentStatType": "DATASOURCE"
+        }
+      ],
+      "agentStatType": "DATASOURCE"
+    }
+  ]
+}
