@@ -1,6 +1,7 @@
 <template>
 
   <div class="container">
+    <BackTop></BackTop>
 
     <Row type="flex" justify="center" class="sub_title">
       <Col span="24"><h1>JSON在线对比工具 by upuptop</h1></Col>
@@ -71,7 +72,18 @@
       </Col>
     </Row>
 
+    <Row>
+      <Col span="24" type="center">
+        <Tag color="default"><a href="mailto:pyfysf@163.com">mail:pyfysf@163.com</a></Tag>
+        <Tag color="primary">
+          <a class="qq" target="_blank"
+             href="http://wpa.qq.com/msgrd?v=3&amp;uin=337081267&amp;site=qq&amp;menu=yes"
+             title="qq">QQ:337081267</a>
+        </Tag>
+      </Col>
+    </Row>
   </div>
+
 
 </template>
 
