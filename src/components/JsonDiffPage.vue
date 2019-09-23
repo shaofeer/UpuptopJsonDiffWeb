@@ -21,7 +21,7 @@
 
       <Col span="12">
         <Input v-model="jsonTwo" class="area_input" type="textarea" :rows="4"
-               placeholder="请输入第一个json串"></Input>
+               placeholder="请输入第二个json串"></Input>
       </Col>
     </Row>
 
@@ -45,13 +45,13 @@
     <Row>
       <Col span="12">
         <div class="json_viewer_div">
-          <json-view :deep="5" :closed="isClosed" :data="JSON.parse(jsonOne)"
+          <json-view :deep="jsonDeep" :closed="isClosed" :data="JSON.parse(jsonOne)"
                      v-if="this.jsUtil.isJSON(jsonOne)"/>
         </div>
       </Col>
       <Col span="12">
         <div class="json_viewer_div">
-          <json-view :deep="5" :closed="isClosed" :data="JSON.parse(jsonTwo)"
+          <json-view :deep="jsonDeep" :closed="isClosed" :data="JSON.parse(jsonTwo)"
                      v-if="this.jsUtil.isJSON(jsonTwo)"/>
         </div>
       </Col>
@@ -92,6 +92,7 @@
             return {
                 // json: jsonData,
                 isClosed: false,
+                jsonDeep: 1,
                 jsonOne: "",
                 jsonTwo: "",
                 jsUtil: jsUtil
@@ -120,6 +121,7 @@
         methods: {
             close(flag) {
                 this.isClosed = flag
+                this.jsonDeep = 5
             },
 
             sortOneData() {
