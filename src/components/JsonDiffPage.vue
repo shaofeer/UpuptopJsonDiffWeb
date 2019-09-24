@@ -6,7 +6,24 @@
     <Row type="flex" justify="center" class="sub_title">
       <Col span="24"><h1>JSON在线对比工具 by upuptop</h1></Col>
     </Row>
-    <br>
+
+    <Row type="flex" justify="right" class="sub_title">
+      <Col span="24">
+        <a href="mailto:pyfysf@163.com" title="email" class="icon"
+           style="background-color: transparent;">
+          <Icon type="md-mail" size="24"/>
+        </a>
+        <a target="_blank" class="icon"
+           href="http://wpa.qq.com/msgrd?v=3&amp;uin=337081267&amp;site=qq&amp;menu=yes"
+           title="QQ">
+          <Icon type="ios-text" size="30"/>
+        </a>
+        <!--        <a class="wechat icon" target="_blank">-->
+        <!--          <img width="30" height="30" src="https://www.cnblogs.com/images/cnblogs_com/upuptop/1499489/o_qrcode_for_gh_d73ac1b804ed_344.jpg">-->
+        <!--        </a>-->
+
+      </Col>
+    </Row>
     <br>
 
     <Row type="flex" justify="center" class="sub_title">
@@ -72,16 +89,6 @@
       </Col>
     </Row>
 
-    <Row>
-      <Col span="24" type="center">
-        <Tag color="default"><a href="mailto:pyfysf@163.com">mail:pyfysf@163.com</a></Tag>
-        <Tag color="primary">
-          <a class="qq" target="_blank"
-             href="http://wpa.qq.com/msgrd?v=3&amp;uin=337081267&amp;site=qq&amp;menu=yes"
-             title="qq">QQ:337081267</a>
-        </Tag>
-      </Col>
-    </Row>
   </div>
 
 
@@ -173,6 +180,14 @@
 </script>
 
 <style scoped>
+  a.wechat :hover {
+    background-color: red;
+  }
+
+  a.icon {
+    margin-left: 10px;
+  }
+
   .container {
     padding-right: 15px;
     padding-left: 15px;
